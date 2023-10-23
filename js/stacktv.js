@@ -8,7 +8,7 @@
 	"use strict";
 	var defaultSetting = {
 		selector: "body",
-		default_url: "https://wordpress.zealken.repl.co/0.m3u",
+		default_url: "https://wordpress.zealken.repl.co/videos.m3u8",
 		default_logo: "https://tv.stackblog.cf/img/logo.png",
 		maxLog: 6,
 		autoPlay: true,
@@ -21,7 +21,7 @@
 		tv_list: [{
 			'tv_name': 'Stack TV',
 			'tv_logo': 'https://tv.stackblog.cf/img/logo.png',
-			'tv_url': 'https://wordpress.zealken.repl.co/0.m3u'
+			'tv_url': 'https://wordpress.zealken.repl.co/videos.m3u8'
 		}],
 		controls: {
 			playToggle: true,
