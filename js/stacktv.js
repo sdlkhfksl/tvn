@@ -8,7 +8,7 @@
 	"use strict";
 	var defaultSetting = {
 		selector: "body",
-		default_url: "https://vmcdn.stackblog.ml/video/simplestacktv_1.m3u8",
+		default_url: "https://live.fanmingming.com/tv/m3u/global.m3u",
 		default_logo: "https://tv.stackblog.cf/img/logo.png",
 		maxLog: 6,
 		autoPlay: true,
@@ -21,7 +21,7 @@
 		tv_list: [{
 			'tv_name': 'Stack TV',
 			'tv_logo': 'https://tv.stackblog.cf/img/logo.png',
-			'tv_url': 'https://vmcdn.stackblog.ml/video/simplestacktv_1.m3u8'
+			'tv_url': 'https://live.fanmingming.com/tv/m3u/global.m3u'
 		}],
 		controls: {
 			playToggle: true,
