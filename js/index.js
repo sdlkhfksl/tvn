@@ -40,7 +40,7 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/hustv6.m3u";
+	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u";
 	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
