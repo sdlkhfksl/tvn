@@ -40,8 +40,8 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "https://live.adultiptv.net/fetish.m3u8";
+	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/hustv6.m3u";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
