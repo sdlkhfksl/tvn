@@ -41,7 +41,7 @@
 		// showLog: false
 	});
 	let url = new URL(location.href).searchParams.get("url") || "https://wordpress.zealken.repl.co/videos.m3u8";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "https://wordpress.zealken.repl.co/videos.m3u8";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
