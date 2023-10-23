@@ -8,7 +8,7 @@
 	"use strict";
 	var defaultSetting = {
 		selector: "body",
-		default_url: "http://adultiptv.net/videos.m3u8",
+		default_url: "https://wordpress.zealken.repl.co/videos.m3u8",
 		default_logo: "https://tv.stackblog.cf/img/logo.png",
 		maxLog: 6,
 		autoPlay: true,
@@ -21,7 +21,7 @@
 		tv_list: [{
 			'tv_name': 'Stack TV',
 			'tv_logo': 'https://tv.stackblog.cf/img/logo.png',
-			'tv_url': 'http://adultiptv.net/videos.m3u8'
+			'tv_url': 'https://wordpress.zealken.repl.co/videos.m3u8'
 		}],
 		controls: {
 			playToggle: true,
