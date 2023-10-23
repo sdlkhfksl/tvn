@@ -40,7 +40,7 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/YanG-1989/m3u/main/XX.m3u";
+	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u";
 	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
