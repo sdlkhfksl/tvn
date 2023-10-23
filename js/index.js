@@ -41,7 +41,7 @@
 		// showLog: false
 	});
 	let url = new URL(location.href).searchParams.get("url") || "https://iptv-org.github.io/iptv/index.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "https://wordpress.zealken.repl.co/videos.m3u";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
