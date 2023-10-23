@@ -41,7 +41,7 @@
 		// showLog: false
 	});
 	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "http://adultiptv.net/videos.m3u8";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
