@@ -41,7 +41,7 @@
 		// showLog: false
 	});
 	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "http://live.adultiptv.net/livecams.m3u8";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "https://live.adultiptv.net/fetish.m3u8";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
