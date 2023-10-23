@@ -40,8 +40,8 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://wordpress.zealken.repl.co/videos.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "https://live.adultiptv.net/livecams.m3u8";
+	let url = new URL(location.href).searchParams.get("url") || "http://adultiptv.net/chs.m3u";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
