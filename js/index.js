@@ -41,7 +41,7 @@
 		// showLog: false
 	});
 	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "https://live.adultiptv.net/teen.m3u8";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
