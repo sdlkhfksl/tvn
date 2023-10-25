@@ -40,7 +40,7 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cgtn.m3u";
+	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u";
 	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
