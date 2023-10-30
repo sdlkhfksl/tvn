@@ -40,7 +40,7 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "http://adultiptv.net/chs.m3u";
+	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/sdlkhfksl/tvn/main/chs.m3u?token=GHSAT0AAAAAACGEGE2PULFLB75WLNPFA2KQZJ7XQRA";
 	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
