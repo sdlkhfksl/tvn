@@ -40,7 +40,7 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/xinxin2021/iptv/main/main.m3u";
+	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u";
 	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
