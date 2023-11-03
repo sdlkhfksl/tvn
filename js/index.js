@@ -41,7 +41,7 @@
 		// showLog: false
 	});
 	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "https://live2.codewith.fun/live/youtube/xL0ch83RAK8";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
