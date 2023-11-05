@@ -40,8 +40,8 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://live.fanmingming.com/tv/m3u/ipv6.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8";
+	let url = new URL(location.href).searchParams.get("url") || "https://live.fanmingming.com/tv/m3u/global.m3u";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
