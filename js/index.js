@@ -40,8 +40,8 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/TCatCloud/IPTV/Files/IPTV.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "http://183.196.25.171:808/hls/1/index.m3u8";
+	let url = new URL(location.href).searchParams.get("url") || "http://adultiptv.net/chs.m3u";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
