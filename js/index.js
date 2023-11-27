@@ -40,7 +40,7 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u";
+	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/TCatCloud/IPTV/Files/IPTV.m3u";
 	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
