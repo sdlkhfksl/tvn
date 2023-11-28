@@ -40,7 +40,7 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://iptv-org.github.io/iptv/index.m3u";
+	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/Kimentanm/aptv/blob/master/m3u/iptv.m3u";
 	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
