@@ -40,8 +40,8 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/Kimentanm/aptv/blob/master/m3u/iptv.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
+	let url = new URL(location.href).searchParams.get("url") || "";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "https://raw.githubusercontent.com/sdlkhfksl/IPTV-txt/Files/tv2.m3u";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
