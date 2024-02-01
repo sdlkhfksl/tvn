@@ -41,7 +41,7 @@
 		// showLog: false
 	});
 	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/sdlkhfksl/IPTV-txt/Files/tv2.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
