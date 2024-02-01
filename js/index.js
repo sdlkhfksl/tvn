@@ -40,8 +40,8 @@
 		autoPlay: true,
 		// showLog: false
 	});
-	let url = new URL(location.href).searchParams.get("url") || "";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "https://raw.githubusercontent.com/sdlkhfksl/IPTV-txt/Files/tv2.m3u";
+	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/sdlkhfksl/IPTV-txt/Files/tv2.m3u";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
