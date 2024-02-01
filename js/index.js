@@ -41,7 +41,7 @@
 		// showLog: false
 	});
 	let url = new URL(location.href).searchParams.get("url") || "https://raw.githubusercontent.com/sdlkhfksl/IPTV-txt/Files/tv2.m3u";
-	let playUrl = new URL(location.href).searchParams.get("playUrl") || "";
+	let playUrl = new URL(location.href).searchParams.get("playUrl") || "http://cloud.yumixiu768.com/tmp/123.m3u8";
 	url = url.trim();
 	playUrl = playUrl.trim();
 	if (playUrl.length > 0) {
