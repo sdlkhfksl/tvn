@@ -1,0 +1,63 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
+http://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-name="香港佛陀教育协会(大陆线路)" tvg-logo="https://live.fanmingming.com/tv/香港佛陀教育协会(大陆线路).png",香港佛陀教育协会(大陆线路)
+http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 tvg-name="香港佛陀教育协会(欧美线路)" tvg-logo="https://live.fanmingming.com/tv/香港佛陀教育协会(欧美线路).png",香港佛陀教育协会(欧美线路)
+http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 tvg-name="净空老法师讲经直播台(台湾线路)" tvg-logo="https://live.fanmingming.com/tv/净空老法师讲经直播台(台湾线路).png",净空老法师讲经直播台(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 tvg-name="净空老法师讲经直播台(大陆线路)" tvg-logo="https://live.fanmingming.com/tv/净空老法师讲经直播台(大陆线路).png",净空老法师讲经直播台(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 tvg-name="净空老法师讲经直播台(香港线路)" tvg-logo="https://live.fanmingming.com/tv/净空老法师讲经直播台(香港线路).png",净空老法师讲经直播台(香港线路)
+https://hk1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 tvg-name="净空老法师讲经直播台(新马线路)" tvg-logo="https://live.fanmingming.com/tv/净空老法师讲经直播台(新马线路).png",净空老法师讲经直播台(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 tvg-name="净空老法师讲经(台湾线路)" tvg-logo="https://live.fanmingming.com/tv/净空老法师讲经(台湾线路).png",净空老法师讲经(台湾线路)
+https://hk1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+#EXTINF:-1 tvg-name="净空老法师讲经(大陆线路)" tvg-logo="https://live.fanmingming.com/tv/净空老法师讲经(大陆线路).png",净空老法师讲经(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+#EXTINF:-1 tvg-name="净空老法师讲经(香港线路)" tvg-logo="https://live.fanmingming.com/tv/净空老法师讲经(香港线路).png",净空老法师讲经(香港线路)
+https://hk2.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+#EXTINF:-1 tvg-name="净空老法师讲经(新马线路)" tvg-logo="https://live.fanmingming.com/tv/净空老法师讲经(新马线路).png",净空老法师讲经(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+#EXTINF:-1 tvg-name="悟道法师讲经(台湾线路)" tvg-logo="https://live.fanmingming.com/tv/悟道法师讲经(台湾线路).png",悟道法师讲经(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 tvg-name="悟道法师讲经(大陆线路)" tvg-logo="https://live.fanmingming.com/tv/悟道法师讲经(大陆线路).png",悟道法师讲经(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 tvg-name="悟道法师讲经(香港线路)" tvg-logo="https://live.fanmingming.com/tv/悟道法师讲经(香港线路).png",悟道法师讲经(香港线路)
+https://hk2.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 tvg-name="悟道法师讲经(新马线路)" tvg-logo="https://live.fanmingming.com/tv/悟道法师讲经(新马线路).png",悟道法师讲经(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 tvg-name="多元文化(台湾线路)" tvg-logo="https://live.fanmingming.com/tv/多元文化(台湾线路).png",多元文化(台湾线路)
+https://tw2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+#EXTINF:-1 tvg-name="多元文化(大陆线路)" tvg-logo="https://live.fanmingming.com/tv/多元文化(大陆线路).png",多元文化(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+#EXTINF:-1 tvg-name="多元文化(欧美线路)" tvg-logo="https://live.fanmingming.com/tv/多元文化(欧美线路).png",多元文化(欧美线路)
+https://de1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+#EXTINF:-1 tvg-name="多元文化(香港线路)" tvg-logo="https://live.fanmingming.com/tv/多元文化(香港线路).png",多元文化(香港线路)
+https://hk2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+#EXTINF:-1 tvg-name="多元文化(新马线路)" tvg-logo="https://live.fanmingming.com/tv/多元文化(新马线路).png",多元文化(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+#EXTINF:-1 tvg-name="繫念法會(台湾线路)" tvg-logo="https://live.fanmingming.com/tv/繫念法會(台湾线路).png",繫念法會(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="繫念法會(大陆线路)" tvg-logo="https://live.fanmingming.com/tv/繫念法會(大陆线路).png",繫念法會(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="繫念法會(欧美线路)" tvg-logo="https://live.fanmingming.com/tv/繫念法會(欧美线路).png",繫念法會(欧美线路)
+https://de1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="繫念法會(香港线路)" tvg-logo="https://live.fanmingming.com/tv/繫念法會(香港线路).png",繫念法會(香港线路)
+https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="繫念法會(新马线路)" tvg-logo="https://live.fanmingming.com/tv/繫念法會(新马线路).png",繫念法會(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="网络念佛堂(台湾线路)" tvg-logo="https://live.fanmingming.com/tv/网络念佛堂(台湾线路).png",网络念佛堂(台湾线路)
+https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 tvg-name="网络念佛堂(大陆线路)" tvg-logo="https://live.fanmingming.com/tv/网络念佛堂(大陆线路).png",网络念佛堂(大陆线路)
+https://tw3.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 tvg-name="网络念佛堂(欧美线路)" tvg-logo="https://live.fanmingming.com/tv/网络念佛堂(欧美线路).png",网络念佛堂(欧美线路)
+https://de1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 tvg-name="网络念佛堂(香港线路)" tvg-logo="https://live.fanmingming.com/tv/网络念佛堂(香港线路).png",网络念佛堂(香港线路)
+https://hk2.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 tvg-name="网络念佛堂(新马线路)" tvg-logo="https://live.fanmingming.com/tv/网络念佛堂(新马线路).png",网络念佛堂(新马线路)
+https://sg1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
