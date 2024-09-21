@@ -3,24 +3,6 @@
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
 http://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
-https://ushls.ballbar.net/videolandsport/playlist-15.m3u8a?t=1726940495&token=3b05cc73d5aebb6de156e664fe7b783e
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
-https://ushls.ballbar.net/jade_twn/playlist-15.m3u8a?t=1726940785&token=896148d397d89b6b88f023adbb32e4f3
-#EXTINF:-1 tvg-name="EYETV戏剧" tvg-logo="https://live.fanmingming.com/tv/EYETV戏剧.png",EYETV戏剧
-https://ushls.ballbar.net/eyetvxiju_twn/playlist-15.m3u8a?t=1726940856&token=fec957d3e38fbb67dcbedd173c0f3908
-#EXTINF:-1 tvg-name="卫视中文台 Star Movies Chinese" tvg-logo="https://live.fanmingming.com/tv/卫视中文台 Star Movies Chinese.png",卫视中文台 Star Movies Chinese
-https://ushls.ballbar.net/weishichinese_twn/playlist-15.m3u8a?t=1726940901&token=f7eee2428b3a17ef305ba705c1418f36
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://live.fanmingming.com/tv/MTV Live.png",MTV Live
-https://ushls.ballbar.net/mtvhd_twn/playlist-15.m3u8a?t=1726940903&token=2470c90ce83bf55444fe34b7503f376c
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://live.fanmingming.com/tv/Discovery Channel.png",Discovery Channel
-https://pull-l3-cny.douyincdn.com/live/c23948e44e7bdc3525203d7c38ee229f.flv
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://live.fanmingming.com/tv/HBO HD.png",HBO HD
-https://ushls.ballbar.net/hbohd_twn/playlist-15.m3u8a?t=1726941079&token=8eb5ada90e1675efdaa401d1636034d3
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://live.fanmingming.com/tv/HBO Family.png",HBO Family
-https://ushls.ballbar.net/hbofamily/hbohd_twn/playlist-15.m3u8a?t=1726941081&token=3b5c53d5aaa0ca58173ee802758db04f
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://live.fanmingming.com/tv/DMAX.png",DMAX
-https://pull-l3-cny.douyincdn.com/live/41aa178189887d90604fd07c7faa7ef6.flv
 #EXTINF:-1 tvg-name="香港佛陀教育协会(大陆线路)" tvg-logo="https://live.fanmingming.com/tv/香港佛陀教育协会(大陆线路).png",香港佛陀教育协会(大陆线路)
 http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 tvg-name="香港佛陀教育协会(欧美线路)" tvg-logo="https://live.fanmingming.com/tv/香港佛陀教育协会(欧美线路).png",香港佛陀教育协会(欧美线路)
