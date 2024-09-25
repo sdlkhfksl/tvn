@@ -3,6 +3,8 @@
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
 http://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
+https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=ea8736d32d652670014d3e2b3413da7f84008d5c128eadf35a3e3e7cdec0b1f8&hwTime=67000410
 #EXTINF:-1 tvg-name="香港佛陀教育协会(大陆线路)" tvg-logo="https://live.fanmingming.com/tv/香港佛陀教育协会(大陆线路).png",香港佛陀教育协会(大陆线路)
 http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 tvg-name="香港佛陀教育协会(欧美线路)" tvg-logo="https://live.fanmingming.com/tv/香港佛陀教育协会(欧美线路).png",香港佛陀教育协会(欧美线路)
