@@ -61,6 +61,14 @@ https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=ea8736d32d652670014d3e2b3413da7f840
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="央视频道",纬来体育
 http://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://live.fanmingming.com/tv/Fox News.png",Fox News
+https://livetvde.net/k12/index.m3u8?token=dcc44286227df4ce05a6a0c54f0805086da8c3b8-c1196c8170f60381e45bbe5c1273fa71-1727443026-1727432226
+#EXTINF:-1 tvg-name="Newsmax TV" tvg-logo="https://live.fanmingming.com/tv/Newsmax TV.png",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://live.fanmingming.com/tv/CBS News.png",CBS News
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/c3b745c8-36a6-4348-9051-3ecbf4d31090:MRN2/master.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV Live Stream (USA)" tvg-logo="https://live.fanmingming.com/tv/Bloomberg TV Live Stream (USA).png",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-name="His Channel Live Stream (USA)" tvg-logo="https://live.fanmingming.com/tv/His Channel Live Stream (USA).png",His Channel Live Stream (USA)
 https://www1.hischannel.com/liveedge/smil:hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="UN Press Briefings Live Stream" tvg-logo="https://live.fanmingming.com/tv/UN Press Briefings Live Stream.png",UN Press Briefings Live Stream
