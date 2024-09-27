@@ -61,6 +61,8 @@ https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=ea8736d32d652670014d3e2b3413da7f840
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="央视频道",纬来体育
 http://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://live.fanmingming.com/tv/ABC News.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.
 #EXTINF:-1 tvg-name="Fox News" tvg-logo="https://live.fanmingming.com/tv/Fox News.png",Fox News
 https://livetvde.net/k12/index.m3u8?token=dcc44286227df4ce05a6a0c54f0805086da8c3b8-c1196c8170f60381e45bbe5c1273fa71-1727443026-1727432226
 #EXTINF:-1 tvg-name="Newsmax TV" tvg-logo="https://live.fanmingming.com/tv/Newsmax TV.png",Newsmax TV
