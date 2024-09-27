@@ -69,8 +69,8 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://live.fanmingming.com/tv/ABC News.png",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://live.fanmingming.com/tv/Fox News.png",Fox News
-https://livetvde.net/k12/tracks-v1a1/mono.m3u8?token=a55caad0869cfbb21920fb53fa892bd7a9ebf185-60d02c27724dd0c34e2b5a7e21eb9f1e-1727443705-1727432905
+#EXTINF:-1 tvg-name="VOA Live English" tvg-logo="https://live.fanmingming.com/tv/VOA Live English.png",VOA Live English
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-name="Newsmax TV" tvg-logo="https://live.fanmingming.com/tv/Newsmax TV.png",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://live.fanmingming.com/tv/CBS News.png",CBS News
