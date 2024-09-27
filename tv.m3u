@@ -61,8 +61,6 @@ https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=ea8736d32d652670014d3e2b3413da7f840
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="央视频道",纬来体育
 http://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 tvg-name="TCTKids" tvg-logo="https://live.fanmingming.com/tv/TCTKids.png",TCTKids
-https://playback2.akamaized.net/streams/29565692_9321713_lsij9howccjrrvuwvjs_1/master.m3u8?dw=14400&hdnts=exp=1727435174~acl=/streams/29565692_9321713_lsij9howccjrrvuwvjs_1/master.m3u8*~hmac=15f38932314085a53e94c965da3516d5b6713b5725a6f5bafde40a3da52de21a
 #EXTINF:-1 tvg-name="NBC News" tvg-logo="https://live.fanmingming.com/tv/NBC News.png",NBC News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://live.fanmingming.com/tv/ABC News.png",ABC News
