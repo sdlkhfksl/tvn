@@ -61,6 +61,8 @@ https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=ea8736d32d652670014d3e2b3413da7f840
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="央视频道",纬来体育
 http://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-name="Comet Live (USA)" tvg-logo="https://live.fanmingming.com/tv/Comet Live (USA).png",Comet Live (USA)
+https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-name="Brat TV Live (USA)" tvg-logo="https://live.fanmingming.com/tv/Brat TV Live (USA).png",Brat TV Live (USA)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://live.fanmingming.com/tv/PBS Kids.png",PBS Kids
