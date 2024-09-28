@@ -61,6 +61,12 @@ https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=ea8736d32d652670014d3e2b3413da7f840
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="央视频道",纬来体育
 http://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-name="AMG TV" tvg-logo="https://live.fanmingming.com/tv/AMG TV.png",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 tvg-name="Comet Live" tvg-logo="https://live.fanmingming.com/tv/Comet Live.png",Comet Live
+https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://live.fanmingming.com/tv/Channel 4.png",Channel 4
+https://livetvde.net/channel4/index.m3u8?token=84b68b5a0ff3b33bb769abea4308a753f465d4e4-ced74ba8b79cbb7430b98c2f32da157d-1727541654-1727530854
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV (360p) [Not 24/7]
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Animation;Kids;Religious",3ABN Kids
