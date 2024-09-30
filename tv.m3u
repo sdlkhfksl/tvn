@@ -201,6 +201,10 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="M»Net Kids" tvg-logo="https://i.imgur.com/XZwtu7Q.png" tvg-id="kids.mnet.mk" group-title="North Macedonia",M»Net Kids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-name="Arirang TV" tvg-logo="https://live.fanmingming.com/tv/Arirang TV.png",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 tvg-name="EBS 1" tvg-logo="https://live.fanmingming.com/tv/EBS 1.png",EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS Kids Ⓢ" tvg-logo="https://i.imgur.com/62oo8Bx.png" tvg-id="EBSKids.kr" group-title="Korea",EBS Kids Ⓢ
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS Plus 1 Ⓢ" tvg-logo="https://i.imgur.com/ImUHRG2.png" tvg-id="EBSPlus1.kr" group-title="Korea",EBS Plus 1 Ⓢ
