@@ -61,6 +61,38 @@ https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=ea8736d32d652670014d3e2b3413da7f840
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="央视频道",纬来体育
 http://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-name="大愛2" tvg-logo="https://live.fanmingming.com/tv/大愛2.png",大愛2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://live.fanmingming.com/tv/人間衛視.png",人間衛視
+https://epg.pw/stream/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
+#EXTINF:-1 tvg-name="麵包台" tvg-logo="https://live.fanmingming.com/tv/麵包台.png",麵包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-name="中旺電視" tvg-logo="https://live.fanmingming.com/tv/中旺電視.png",中旺電視
+http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+#EXTINF:-1 tvg-name="美亞電視C+" tvg-logo="https://live.fanmingming.com/tv/美亞電視C+.png",美亞電視C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 tvg-name="生命電視台" tvg-logo="https://live.fanmingming.com/tv/生命電視台.png",生命電視台
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 tvg-name="唯心電視台" tvg-logo="https://live.fanmingming.com/tv/唯心電視台.png",唯心電視台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png",Thrill
+mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
+#EXTINF:-1 tvg-name="好消息1台" tvg-logo="https://live.fanmingming.com/tv/好消息1台.png",好消息1台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://live.fanmingming.com/tv/TVBS精采台.png",TVBS精采台
+mitv://generationnexxxt.com:19806/2089afbec2474359add275658522922f
+#EXTINF:-1 tvg-name="TVBS歡樂台" tvg-logo="https://live.fanmingming.com/tv/TVBS歡樂台.png",TVBS歡樂台
+mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://live.fanmingming.com/tv/ELTV生活英語台.png",ELTV生活英語台
+mitv://generationnexxxt.com:19806/78c0f08e89a844ef89d6803bce27a827
+#EXTINF:-1 tvg-name="ELEVEN1台" tvg-logo="https://live.fanmingming.com/tv/ELEVEN1台.png",ELEVEN1台
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-name="ELEVEN2台" tvg-logo="https://live.fanmingming.com/tv/ELEVEN2台.png",ELEVEN2台
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-name="七星關電視台" tvg-logo="https://live.fanmingming.com/tv/七星關電視台.png",七星關電視台
+https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
+#EXTINF:-1 tvg-name="道真新聞綜合" tvg-logo="https://live.fanmingming.com/tv/道真新聞綜合.png",道真新聞綜合
+http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
 #EXTINF:-1 tvg-name="好消息1台" tvg-logo="https://live.fanmingming.com/tv/好消息1台.png",好消息1台
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 tvg-name="美亞電視C+" tvg-logo="https://live.fanmingming.com/tv/美亞電視C+.png",美亞電視C+
