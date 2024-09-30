@@ -61,6 +61,30 @@ https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=ea8736d32d652670014d3e2b3413da7f840
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="央视频道",纬来体育
 http://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-name="好消息1台" tvg-logo="https://live.fanmingming.com/tv/好消息1台.png",好消息1台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-name="美亞電視C+" tvg-logo="https://live.fanmingming.com/tv/美亞電視C+.png",美亞電視C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 tvg-name="TAIWANPlus" tvg-logo="https://live.fanmingming.com/tv/TAIWANPlus.png",TAIWANPlus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-name="星空衛視" tvg-logo="https://live.fanmingming.com/tv/星空衛視.png",星空衛視
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 tvg-name="AMC電影台" tvg-logo="https://live.fanmingming.com/tv/AMC電影台.png",AMC電影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="緯來精彩" tvg-logo="https://live.fanmingming.com/tv/緯來精彩.png",緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="探索亞洲" tvg-logo="https://live.fanmingming.com/tv/探索亞洲.png",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://live.fanmingming.com/tv/動物星球.png",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="ELEVEN1台" tvg-logo="https://live.fanmingming.com/tv/ELEVEN1台.png",ELEVEN1台
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-name="ELEVEN2台" tvg-logo="https://live.fanmingming.com/tv/ELEVEN2台.png",ELEVEN2台
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-name="東森超視台" tvg-logo="https://live.fanmingming.com/tv/東森超視台.png",東森超視台
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="東森美國衛視" tvg-logo="https://live.fanmingming.com/tv/東森美國衛視.png",東森美國衛視
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
