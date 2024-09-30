@@ -167,7 +167,20 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="点掌财经" tvg-logo="https://live.fanmingming.com/tv/点掌财经.png",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-
+#EXTINF:-1 tvg-name="Amazing Discoveries" tvg-logo="https://live.fanmingming.com/tv/Amazing Discoveries.png",Amazing Discoveries
+https://bozztv.com/btrn03/amazingdtv-srt/index.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://live.fanmingming.com/tv/BBC News.png",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="Horse & Country TV" tvg-logo="https://live.fanmingming.com/tv/Horse & Country TV.png",Horse & Country TV
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://live.fanmingming.com/tv/BBC One.png",BBC One
+https://livetvde.net/bbcone/index.m3u8?token=5a09b0ee183fdf09f1533af4dcc6cc7aa145fc59-66f87cc31462da6f14113adce347e7ee-1727692733-1727681933
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://live.fanmingming.com/tv/BBC Two.png",BBC Two
+https://livetvde.net/bbctwo/index.m3u8?token=e439ec08a935d29a75aee0116c4b67752f9ef3df-bc00250bcc08e14aa1d877095b6529a0-1727692772-1727681972
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://live.fanmingming.com/tv/BBC Three.png",BBC Three
+https://livetvde.net/bbcthree/index.m3u8?token=1aa841f4d875f693013cbdeba6ea3f0b28e03526-65bf9243b8c9da61239ef7012312ba4d-1727692768-1727681968
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://live.fanmingming.com/tv/Sky News.png",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-name="RT Documentary English Ⓖ" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries (EN)",RT Documentary English Ⓖ
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-name="Peer TV South Tyrol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" tvg-id="PeerTV.it" group-title="Documentaries (EN)",Peer TV South Tyrol
